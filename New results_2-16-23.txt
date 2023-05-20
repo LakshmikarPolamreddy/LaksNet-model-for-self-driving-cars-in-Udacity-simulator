@@ -1,0 +1,55 @@
+CNN1 - 3x3 filters, 7 convolution layers
+Ep1: 4s, Ep6: 20s, 
+
+
+
+*******************
+Feb 16, 2023:
+****************
+NVIDIA
+Ep1: 120s, Ep6: 70s, Ep11:70 s, Ep16: 70s, Ep21: 120s, Ep26: 120s, Ep30: 70s
+---------------------------------
+CNN5 - 5 convolution layers, 7x7 and 5x5 filters
+Ep1: 40s, Ep2: 63s, Ep3: 63s, Ep4: 3s, Ep5: 3s, Ep50: 3s
+----------------------
+
+CNN6 - 3 convolution layers, 7x7 filters
+Ep1: 10s, Ep2: 30s, Ep3: 65s, Ep4: 25s, Ep5: 20s, Ep20: 65s
+------------------------------
+
+CNN7 - 3 convolution layers, 3x3 filters, 128x128 size, YUV image
+Ep1: 72s, Ep2: 12s, Ep3: 13s, Ep4: 3s, Ep5: 72s, Ep20: 5s
+-------------------------------------------------
+--------------------------------------------------------
+
+*******************
+Feb 17, 2023:(YUV images)
+****************
+CNN1 - 3x3 filters, 7 convolution layers, YUV images
+Ep1: 50s, Ep2:30s, Ep3: 10s, Ep4: 20s, Ep5: 10s
+---------------------------------------------------------
+CNN4 - 5 convolution layers, 5x5 filters, YUV images
+Ep1: 120s, Ep2: 30s, Ep3:24s, Ep4: 20s, Ep5: 65s, Ep6: 90s, Ep7:50s, Ep8:10s
+Ep9: 8s, Ep10: 8s, Ep11: 25s, Ep12: 18s, Ep13: 4s
+--------------------------------------------------------------------
+CNN5 - 5 convolution layers, 7x7 and 5x5 filters, YUV images
+Ep1: 92s, Ep2: 20s, Ep3: 10s, Ep4: 10s, Ep5: 8s, Ep20: 8s
+------------------------------------------------------------------
+CNN7 - 3 convolution layers, 3x3 filters, 70x320 size, YUV image
+Ep1: 20s, Ep2: 30s, Ep3: 120s, Ep4: 72s, Ep5: 120s, Ep6: 120s, Ep7: 140s, Ep8: 120s
+Ep9: 20s, Ep10: 150s, Ep11: 120s, Ep12:	 120s 
+------------------------------------------------------------------
+CNN8 - 4 convolution layers, 3x3 filters, 70x320 size, YUV image
+Time = 80-90s appx, Ep10: 120s
+-----------------------------------
+CNN9 - 4 convolution layers, 3x3 filters, 5x5 filter, 70x320 size, YUV image
+Ep1: 120s, Ep2: 90s, Ep3: 120s, Ep4: 120s, Ep5: 90s, Ep6: 55s, Ep7: 90s
+Ep8: 50s, Ep9: 90s, Ep10:90s, Ep11:150s, Ep12:50s, Ep13: 120s, Ep14: 50s,
+Ep15: 50s
+----------------------------------
+
+  
+
+
+
+
